@@ -7,7 +7,7 @@
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 from pprint import pprint
-
+print("Import Done!")
 
 # In[39]:
 
@@ -15,18 +15,19 @@ from pprint import pprint
 # scope of the application
 scope = ["https://spreadsheets.google.com/feeds", 'https://www.googleapis.com/auth/spreadsheets',
          "https://www.googleapis.com/auth/drive.file", "https://www.googleapis.com/auth/drive"]
-
+print("Scope Loaded!")
 credentials = ServiceAccountCredentials.from_json_keyfile_name(
     "cred.json", scope)
-
+print("Cred Loaded!")
 
 # In[40]:
 
 
 client = gspread.authorize(credentials)
+print("Client Loaded!")
 # Open the spreadhseet
 sheet = client.open("Interface_data").worksheet("Sheet1")
-
+print("Sheet Loaded!")
 
 # In[41]:
 
@@ -34,13 +35,13 @@ sheet = client.open("Interface_data").worksheet("Sheet1")
 # Get a list of all records
 data = sheet.get_all_records()
 # pprint(data)
-
+print("Data Loaded!")
 
 # In[42]:
 
 
 import streamlit as st
-
+print("Hit Streamlit!")
 
 # In[43]:
 
@@ -71,5 +72,6 @@ if st.button("Append GSheet",key=7):
     l.append(t5)
     l.append(t6)
     sheet.insert_row(l,len(sheet.get_all_records()))
+    print("Sheets Appended!")
     st.write("Check Sheet!")
 
