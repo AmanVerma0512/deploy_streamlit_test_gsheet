@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "soy-geography-362806",
+  "private_key_id": "acdb611b93e98f4f494360504b1af5c76ea0e62d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCmk6grZWyyppGe\nvU4wj0mXVBOWCkfr0fg47SKLo6jMeTfEwzUwXqO49KbtIBCam+X/BOgi58ukpkbN\nXvV+cb9F7QZJjpM8R4zBriv3aM+zZN/l5C9x/eqBX0poCLgWjwHb2mDz9MunJc3l\n6XR1ZHNpV4Mh26RlFw7aikEx8ym5I41E6JFfyffR9YiXMtDG+cKWFjvHYrGPVDhJ\na75EY0TzJ4Sxy8f7mRKtjx981s6d12vbVInmWOrSKH+536uDCkUJP028lqJw09rf\nbq7ZopC/RJPKIKu9xmYprhLQaiS231K/FlTbsNGUqNBcf8/PsT7xBW8UfanzYb9T\n835c/53VAgMBAAECggEAP0PEMpsmQeGuW74lJJ8/AWjuuWT1NNS9tA0oOiWxtdrx\n+dpz6IeBIf1VKqkrdTTxkL4R1jP37XQzXsuKbHgR/6JKaYRrWhEIngSi8SfO/qC4\nwoy8EkywFGuXDFUHaZXtzEyv1uepszVR8liMoQtCJAeXJ7RORxCPVSP+J9TlC0me\n7dP5n9i2mpxG67FeAFhxFEYYchJiSPpnVL3G4UF9yy5eYXjFnKwywgXAw1FOCwVI\naxT0j3nw+T4K8XglJI/Q0MMaFzVVj2++EWX3+UI36uC4WE8CqTmNA8NSGbTUQlBa\n9AUl5APD84pZPFmXO/TfOUoP7t8JEQFkB9uNQEorjwKBgQDVBgsK7CDOJfPRIBw+\nx4LNdGZfjcxIA5nkEx5F1coe4r66ZAot+6YRG8xPmL92TSpgYZJl8l/sO/7/j95F\ndNpw1ypUB5Mjvk0eE6TG3uF/numKkQLDkFjNoLBtVySZvPmAKWweCvdtxVO1qr9l\nhS0jEnP6zC1WdFNNyxYLMn8+SwKBgQDILspxGMNhP7y6uIDVW46+FCJ1it3s+th3\nUuOIfzcN9ZWSGkxwRiBGx8SFh4PIHDqpCJ51zAfXagDKXt6k8kS8CQZd9RhtZ8ly\nPlFGLt3VFiAuxLT9TkArYb6oMZ8gQcyhu1+9smmb7qhZPveVVWGQjog566/cBldb\n5cDsVKaAXwKBgHESoxvqGMO0C4Zu1+9O8ZRi+9AusUdseexBZalGAOKCEyFW5rxf\nvleIfNunRcHi1eKRCCeLDvWTJxi6Yg5WJ3kMDRDLcIPhiIe1f5p8Rg/65xZBQMlT\nvn9vkxaG0gu07m7kDdqokYu32WYtuyiFF19tdRij9lDUsD8z1ICfDkGfAoGAcjX3\n/GTDfCWQOPvxTUlqfFoieuuayI0pmZKqDIOAVq+KAYyNlfT8j0WEgyaY8j/g2/X1\n6oFY6/cnsk5EOtmai6mef1bJ9Aml7k9NsXwlxmBURjqmhGrzw4yF6ZI+FnpUFOZB\nroovJO8aD6kUOpg3DPG1GU61zBO2HdFMq8l0IYMCgYBVg7703N8imUvetlLFcIuX\nirQzmrc5qx5eeqzjD/s9V89d7UBm6RAV8EZzNk6Bs47CbXzZ+0EtuZPgw2L/cXL9\nt1SqvBYZD4pj9FO8DzsnRWMb2By6qrxJxQUZniQz1WZwMk9lUKtuydB4y6P6KA1U\n623XkVz1yz3/rirRN5f3HQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "aman-verma@soy-geography-362806.iam.gserviceaccount.com",
+  "client_id": "104585104563218001917",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/aman-verma%40soy-geography-362806.iam.gserviceaccount.com"
+}
